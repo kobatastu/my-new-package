@@ -1,0 +1,11 @@
+{
+  "name": "my-ex-module",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
