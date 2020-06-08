@@ -7,5 +7,6 @@
     "start": "ts-node index"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/kobatastu/my-new-package"
 }
